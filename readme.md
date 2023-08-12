@@ -41,5 +41,6 @@ Correr la api en modo desarrollo:
 $ docker-compose up
 ```
 
-Para visualizarlo en el navegador utilizar http://localhost:3001
+Para visualizarlo en el navegador utilizar http://localhost:3001.
+
 El proyecto también puede ser visualizado sin ninguna instalación mediante la URL pública [DEMO](https://api-equipos-de-futbol-nfk4-dev.fl0.io/api/teams/players/Arquero)
