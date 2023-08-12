@@ -42,3 +42,4 @@ $ docker-compose up
 ```
 
 Para visualizarlo en el navegador utilizar http://localhost:3001
+El proyecto también puede ser visualizado sin ninguna instalación mediante la URL pública [DEMO](https://api-equipos-de-futbol-nfk4-dev.fl0.io/)https://api-equipos-de-futbol-nfk4-dev.fl0.io/)
